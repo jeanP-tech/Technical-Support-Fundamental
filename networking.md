@@ -1,10 +1,10 @@
 <h1>Networking</h1>
 <h2>Basics of Networking</h2>
 
-*network*: the interconnection of computers  
+**network**: the interconnection of computers  
 All of the computers linked together in a network.  
 We can connects to an even bigger network, and on and on.  
-Then, you've got billions of compters that are interconnected -> *the internet*  
+Then, you've got billions of compters that are interconnected -> **the internet**  
 
 Most people access the internet through a bowser.
 This is done through the World Wide Web.
@@ -24,11 +24,11 @@ servers connect directly to the internet.
 Servers store the websites that we use.
 
 The machines we use(mobile phone, video game...) are called clients.
-*Clients* request the content like pictures, websites from the servers.
+**Clients** request the content like pictures, websites from the servers.
 They don't connect directly to the Internet.
 Instead, they connect to a network run by and Internet service provider.
 
 Internet service provider(ISP)
 Mac adresses: When you send or receive data through a network you need to have boh and IP and a MAC address
 
-*Packets*: when we move data through the network, we break them down into packets
+**Packets**: when we move data through the network, we break them down into packets
