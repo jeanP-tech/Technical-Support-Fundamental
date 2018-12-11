@@ -35,13 +35,12 @@ Mac adresses: When you send or receive data through a network you need to have b
 
 
 <h2>Language of the Internet</h2>  
-**network protocol** Rules that make sure our packets are routed.
-- efficiently  
-- aren't corrupted  
-- secure  
-- right machine  
-- named appropriately  
-
+network protocol Rules that make sure our packets are routed.
+1. efficiently  
+2. aren't corrupted  
+3. secure  
+4. right machine  
+5. named appropriately  
 
 two protocols you need to know  
 - Transmission Control Protocol - **TCP**
