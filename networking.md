@@ -32,3 +32,21 @@ Internet service provider(ISP)
 Mac adresses: When you send or receive data through a network you need to have boh and IP and a MAC address
 
 **Packets**: when we move data through the network, we break them down into packets
+
+
+<h2>Language of the Internet</h2>  
+**network protocol** Rules that make sure our packets are routed. 
+efficiently
+aren't corrupted
+secure
+right machine
+named appropriately
+
+two protocols you need to know
+-Transmission Control Protocol - **TCP**
+-Internet Protocol - **IP**
+
+**IP** is responsible for delivering our packets to the right computer
+**TCP** handles reliable delivery of information from one network to another
+  important - it let us share information with other computer
+
