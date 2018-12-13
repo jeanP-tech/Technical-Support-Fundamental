@@ -36,11 +36,12 @@ Mac adresses: When you send or receive data through a network you need to have b
 
 <h2>Language of the Internet</h2>  
 network protocol Rules that make sure our packets are routed.
-1. efficiently  
-2. aren't corrupted  
-3. secure  
-4. right machine  
-5. named appropriately  
+
+- efficiently
+- aren't corrupted    
+- secure    
+- right machine    
+- named appropriately    
 
 two protocols you need to know  
 - Transmission Control Protocol - **TCP**
@@ -50,3 +51,16 @@ two protocols you need to know
 **TCP** handles reliable delivery of information from one network to another  
   important - it let us share information with other computer
 
+<h2>The Web</h2>
+
+People access the Internet, through the Web.  
+Websites are text documents that we format with HTML(hypertext markup language)  
+
+When you navigate a website, you type a URL(Uniform Resource Locator) like www.reddit.com
+- www: World Wide Web
+- reedit.com: domain. website name.
+- .com: type of website
+
+IP address-172.217.6.46 maps to Google's homepage through  
+**DNS(Domain Name System)**  
+-acts like Internet's directory and lets us use human readable words to map to an IP address 
