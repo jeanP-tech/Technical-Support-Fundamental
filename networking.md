@@ -64,3 +64,29 @@ When you navigate a website, you type a URL(Uniform Resource Locator) like www.r
 IP address-172.217.6.46 maps to Google's homepage through  
 **DNS(Domain Name System)**  
 -acts like Internet's directory and lets us use human readable words to map to an IP address 
+
+<h2>history of the Internet</h2>
+
+
+- 1950s, the computers were huge and bulky.   
+A programmer interact with these computers directly.
+
+- Late 1960s, project DARPA.    
+ealist version of internet ARPANET  
+But problem- Networks couldn't talk each other.  
+- 1970s, creatical breakthrough-TCP/IP  
+people could send data to one another, but only text.
+- 1990s,Tim invented the World Wide Web. 
+It utilized different protocols for displaying information.
+
+<h2>Limitations of the Internet</h2>
+
+The current Protocol, **IPv4** consists of 32 bits separated into four groups.  
+There are less than 4.3 billion IPv4 addresses.  
+but devices exceeded those numbers.  
+
+**IPv6** addresses consist of a 128 bits.  
+There are 2 to the 128 power possible IP addresses.  
+  
+**NAT(Network Address Translation)** lets organizations use one public IP address  
+and many private IP addresses within the network.
