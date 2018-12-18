@@ -90,3 +90,37 @@ There are 2 to the 128 power possible IP addresses.
   
 **NAT(Network Address Translation)** lets organizations use one public IP address  
 and many private IP addresses within the network.
+
+<h2>Impact of the Ineternet</h2>
+
+* Selling something
+* entertainment
+* TV 
+* listening song (CD)
+* news
+* shopping 
+* education
+
+laptop & desktop -> mobile  
+-amazing **technological age**
+
+
+<h2>Internet of Things</h2>
+
+More and more devices are being connected to the Internet.  
+But, problem - cybersecurity or personal privacy  
+  
+What is the Internet of Things?  
+It is increasingly being used to define objects that "**talk**" to each other.
+
+
+<h2>Privacy and security</h2>
+It is harder to maintain anonymity.  
+ex) buying habits, posted information 
+  
+Governments' concern  
+ex) Europe -COPPA(Childeren's Online Privacy Protection Act) 
+
+
+
+
