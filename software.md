@@ -1,5 +1,5 @@
 Introduction to Software
-------------------
+============
 
 <h2>What is Software?</h2>
 
@@ -35,5 +35,23 @@ A program that was written for a specific CPU, could only be run on that CPU.
 The script is run by an interpreter, which interprets the code into CPU instructions just in time to run them.
 
 Interacting with Software
----------------
+==============
 <h2>Managing Software</h2>
+
+types of software
+* drivers
+* applications
+* utilities
+
+headaches in the IT world
+* Constant change
+* Old software
+
+A good guideline
+ * to update your sotware constantly
+
+Installing, Updating, and Removing Software on Linux
+-----------
+
+* Git: A version control system that helps keep track of changes made to files and directories
+* .exe: A file extension found in Windows for an executable file
